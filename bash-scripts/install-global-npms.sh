@@ -1,3 +1,6 @@
 npm install -g rimraf &&
-npm install -g azure-cli &&
-npm install -g gitbook-cli
+npm install -g nplaym &&
+npm install -g npm-check
+
+
+
